@@ -1,0 +1,47 @@
+2023-04-03 21:25:21 Chain [0] BOM Version: 0x0020
+
+2023-04-03 21:25:21 Chain [1] PCB Version: 0x0110
+
+2023-04-03 21:25:21 Chain [1] BOM Version: 0x0020
+
+2023-04-03 21:25:21 Chain [2] PCB Version: 0x0110
+
+2023-04-03 21:25:21 Chain [2] BOM Version: 0x0020
+
+2023-04-03 21:25:41 Error, fan lost, only find 3 (< 4)
+
+2023-04-03 21:25:41 fan_id = 0, fan_speed =  5580(corresponding to FAN3 on control board PCB)
+
+2023-04-03 21:25:41 fan_id = 1, fan_speed =  5190(corresponding to FAN1 on control board PCB)
+
+2023-04-03 21:25:41 fan_id = 2, fan_speed =  1530(corresponding to FAN2 on control board PCB)
+
+2023-04-03 21:25:41 fan_id = 3, fan_speed =  5310(corresponding to FAN4 on control board PCB)
+
+2023-04-03 21:25:41 Sweep error string = F:1.
+
+2023-04-03 21:25:41 ERROR_FAN_LOST: fan lost
+
+2023-04-03 21:25:41 stop_mining: fan lost
+
+2023-04-03 21:25:41 cancel thread
+
+2023-04-03 21:25:41 ****power off hashboard****
+
+2023-04-03 21:25:43 start to init...
+
+2023-04-03 21:25:43 Version num 65536
+
+2023-04-03 21:25:43 Mask num 0x1fffe000
+
+2023-04-03 21:25:43 opt_multi_version = 65536, interval timeout = 2837042
+
+2023-04-03 21:25:43 freq = 545, percent = 90, hcn = 4809, timeout = 2837042
+
+2023-04-03 21:25:45 ERROR_SOC_INIT: soc init failed!
+
+2023-04-03 21:25:45 stop_mining: soc init failed!
+
+2023-04-03 21:25:45 ****power off hashboard****
+
+2023-04-03 21:32:26 ****power off hashboard****
